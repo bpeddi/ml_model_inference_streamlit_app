@@ -1,5 +1,7 @@
 ## Preferred IDE: Pycharm
 
+![Architecture](mlapp1.PNG)
+
 ### Test the streamlit app on local:
 
 1. Install required dependencies on local:
